@@ -1,0 +1,7 @@
+*.tfstate
+*.tfvars
+____*
+frontend
+terraform
+*.webp
+*1.md
